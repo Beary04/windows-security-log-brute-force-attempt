@@ -5,7 +5,7 @@ A hands-on Splunk lab demonstrating the ingestion and analysis of Windows Securi
 # Splunk Security Event Lab
 
 ## Objective
-Demonstrate ingestion and analysis of Windows Security logs in Splunk, highlighting key events like password failed logons (4725), account changes (4738), and successful logons (4624).
+Demonstrate ingestion and analysis of Windows Security logs in Splunk, highlighting key events like password failed logons (4625), account changes (4738), and successful logons (4624).
 
 ## Tools Used
 - Splunk Enterprise (host)
