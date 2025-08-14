@@ -25,3 +25,5 @@ Demonstrate ingestion and analysis of Windows Security logs in Splunk, highlight
 https://github.com/Beary04/windows-security-log-brute-force-attempt/blob/main/Screenshot%20(9).png?raw=true
 
 ![image alt](https://github.com/Beary04/windows-security-log-brute-force-attempt/blob/main/Screenshot%20(9).png?raw=true)
+
+https://github.com/Beary04/windows-security-log-brute-force-attempt/blob/fa35c513e35c4ce8b51b4f63f041663c9fee4ef2/Screenshot%20(9).png
