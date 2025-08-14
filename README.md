@@ -4,10 +4,10 @@ A hands-on Splunk lab demonstrating the ingestion and analysis of Windows Securi
 ### Splunk enterprise logs
 ![Event 4724 Screenshot](screenshot1.png)
 
-### Event 4738 - Account Change
+### Splunk CSV security log upload
 ![Event 4738 Screenshot](screenshot2.png)
 
-### Event 4624 - Successful Logon
+### Windows VM event viewer
 ![Event 4624 Screenshot](screenshot3.png)
 
 ### Powershell failed logons
