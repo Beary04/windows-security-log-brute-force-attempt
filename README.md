@@ -14,7 +14,7 @@ Demonstrate ingestion and analysis of Windows Security logs in Splunk, highlight
 
 ## Steps
 1. Trigger Security events on Windows VM:
-   - Password failure attempt (4725)
+   - Password failure attempt (4625)
    - User account modification (4738)
    - Successful login (4624)
 2. Export Security logs as `.csv`.
