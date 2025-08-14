@@ -21,3 +21,7 @@ Demonstrate ingestion and analysis of Windows Security logs in Splunk, highlight
 5. Verify ingestion:
    ```spl
    source="windows logs csv.csv" host="DESKTOP-I88F9FT" index="security" sourcetype="csv" failed*
+
+https://github.com/Beary04/windows-security-log-brute-force-attempt/blob/main/Screenshot%20(9).png?raw=true
+
+![image alt](https://github.com/Beary04/windows-security-log-brute-force-attempt/blob/main/Screenshot%20(9).png?raw=true)
